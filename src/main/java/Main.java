@@ -21,6 +21,7 @@ public class Main {
         int[] tmp = new int[ints.length + ints2.length];
         for (int j = 0; j < ints.length; j++) tmp[j] = ints[j];
         ints = tmp;
+        int y=0;
 
         String s1 = "Hello Woprld!";
         s1 += s1.replace("l", "A");
