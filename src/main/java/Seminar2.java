@@ -4,7 +4,7 @@ public class Seminar2 {
 
         String s = "Help World! My name is Евгений! ";
 
-        s.equals("");
+        s.equals("1");
         s.contains("!");
         System.out.println(s.replace("!", ""));
         System.out.println(s.toUpperCase());
